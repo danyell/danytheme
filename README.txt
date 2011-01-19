@@ -1,4 +1,5 @@
-$Id 
+
+The Danytheme (danyell.com theme) is a lame-ass variant of the CTI Flex theme.
 
 The CTI Flex theme is a flexible and highly customizable Zen sub-theme created for use on websites developed by Clinical Tools, Inc.
 
