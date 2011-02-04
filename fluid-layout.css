@@ -48,12 +48,19 @@
     padding: 0; /* DO NOT CHANGE. Add padding or margin to #content-inner. */
   }
 
-  #content-inner,
+  #content-inner 
+  {
+     min-height: 500px;
+     margin-top: 15px;
+     margin-bottom: 15px;
+     margin-left: 10px;
+     margin-right: 220px; /* 10px + width of #sidebar-right. */
+     padding-left: 20px;
+  }
+
   .no-sidebars #content-inner
   {
-    min-height: 500px;
     margin: 15px 10px;
-    padding-left: 20px;
   }
 
   .sidebar-left #content-inner
